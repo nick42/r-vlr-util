@@ -4,6 +4,7 @@
 # Cross-platform source, configuration, documentation, and scripts.
 *.rs           text eol=lf
 *.toml         text eol=lf
+Cargo.lock     text eol=lf
 *.md           text eol=lf
 *.yml          text eol=lf
 *.yaml         text eol=lf
